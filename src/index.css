@@ -1,0 +1,46 @@
+ :root {
+     margin: 0;
+     padding: 0;
+     font-family: 'Mochiy Pop One', sans-serif;
+ }
+  body {
+    
+  }
+  span {
+    display: block;
+    font-size: 40px;
+    font-weight: 700px;
+  }
+  
+  .timer {
+    margin:100px auto;
+    padding: 100px;
+    display: flex;
+    width: 720px;
+    justify-content: center;
+   
+  }
+
+
+  .field {
+    width: 20vmin;
+  }
+  
+
+  .value {
+    display: inline-block;
+    margin-bottom: 3vmin;
+    padding: 3vmin 2vmin;
+    text-align: center;
+    font-size: 10vmin;
+    font-weight: 500;
+    border-radius: 3vmin;
+  }
+  
+  .label {
+    display: block;
+  padding: 1vmin;
+  font-size: 3vmin;
+  text-align: center;
+  border-radius: 3vmin;
+  }
